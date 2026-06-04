@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(../html/imag/gg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
